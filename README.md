@@ -1,4 +1,4 @@
-# dokku-dockerfile-go
+# dokku-go-dockerfile
 
 ## Example of Deployment of Golang project via Dokku with Dockerfile
 ### Much faster deployment
